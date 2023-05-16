@@ -1,5 +1,8 @@
 # VGA-Controller
 
+Authors:
+[Sahaj Singh](https://github.com/SatireSage), [Bryce Leung](https://github.com/Bryce-Leung)
+
 This repository contains the code for a VGA controller capable of drawing lines on a VGA screen. The project focuses on creating datapaths, state machines, and using an embedded VGA core. The top-level diagram consists of the VGA core and the custom circuit responsible for generating the required patterns.
 
 ## Tasks Completed
